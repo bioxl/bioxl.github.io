@@ -3,8 +3,8 @@
 
 ### **bio.xl | biology**
 
-**URL [https://bio.xl.ag]**
+**URL https://bio.xl.ag**
 ## **Contact**
 **Phone: +31 6 8413 9231**
 
-**E-Mail: bio.xl@xmail.net**
+**E-Mail: [bio.xl@xmail.net]**
