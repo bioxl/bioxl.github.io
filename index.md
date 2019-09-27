@@ -1,4 +1,4 @@
-<h1 id="bio.xl | biology"><strong><font size="6">bio.xl | biology</font></strong></h1>
+<h1 id="bio.xl | biology"><strong><font size="6">bio.xl |</font></strong><font size="6"> biology</font></h1>
 <p><font size="5">Welcome to bio.xl @ GitHub</font></p>
 <p><font size="5">For bio.xl website please visit</font></p>
 <p><strong><font size="6"><a href="https://bio.xl.ag">bio.xl.ag</a></font></strong>
