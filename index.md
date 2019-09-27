@@ -7,7 +7,8 @@
 <p>E-Mail: <strong><font size="4"><a href="mailto:bio.xl@xmail.net">bio.xl@xmail.net</a></font></strong></p>
 <strong><details>
   <summary>Legal</summary>
-  <p>CEO Michael Weber</p>
+  <p>CEO bio.xl Universal Unltd</p>
+  <p>Michael Weber | CEO</p>
   <p>&#128241; +31 6 8413 9231</p>
 </details></strong>
 © 2019 bio.xl
