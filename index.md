@@ -8,6 +8,6 @@
 <strong><details>
   <summary>Legal</summary>
   <p>CEO Michael Weber</p>
-  <p>☎ +31 6 8413 9231</p>
+  <p>&#128379; +31 6 8413 9231</p>
 </details></strong>
 © 2019 bio.xl
