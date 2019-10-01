@@ -1,4 +1,4 @@
-<p><strong><font size="6"><a href="https://bio.xl.ag">bio.xl</a></font></strong><strong><font size="6"> | biology</font></strong>
+<p><strong><font size="6"><a href="https://bio.xl.ag">bio.xl</a></font></strong><font size="6"> | biology</font>
 <p><font size="5">Welcome to bio.xl @ GitHub</font></p>
 <p><font size="5">For bio.xl website please visit</font></p>
 <p><strong><font size="6"><a href="https://bio.xl.ag">bio.xl.ag</a></font></strong>
