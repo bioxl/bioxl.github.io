@@ -21,6 +21,8 @@
 <p><strong><font size="6"><a href="https://www.pearltrees.com/bioxl">pearltrees</a></font></strong>
 <p><strong><font size="6"><a href="http://ttlink.com/bioxl">ttlink</a></font></strong>
 <p><strong><font size="6"><a href="hhttps://slashdot.org/~bio.xl">slashdot</a></font></strong>
+<p><strong><font size="6"><a href="https://soundcloud.com/bioxl">soundcloud</a></font></strong>
+
 <p><font size="5">Contact</font></p>
 <p>URL: <strong><font size="4"><a href="https://bioxl.github.io">https://bioxl.github.io</a></font></strong></p>
 <p>E-Mail: <strong><font size="4"><a href="mailto:bio.xl@xmail.net">bio.xl@xmail.net</a></font></strong></p>
