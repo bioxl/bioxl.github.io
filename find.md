@@ -24,7 +24,7 @@
 <p><strong><font size="6"><a href="https://soundcloud.com/bioxl">soundcloud</a></font></strong>
 <p><strong><font size="6"><a href="https://archive.org/details/@bio_xl">archive</a></font></strong>
 <p><strong><font size="6"><a href="https://www.dailymotion.com/dm_06482eb32ae8f67ababe8c846c3e80c4">dailymotion</a></font></strong>
-
+<p><strong><font size="6"><a href="https://https://flickr.com/photos/bioxl/">flickr</a></font></strong>
 
 <p><font size="5">Contact</font></p>
 <p>URL: <strong><font size="4"><a href="https://bioxl.github.io">https://bioxl.github.io</a></font></strong></p>
